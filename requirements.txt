@@ -1,0 +1,6 @@
+numpy
+flask
+torch
+transformers
+pandas
+scikit-learn
